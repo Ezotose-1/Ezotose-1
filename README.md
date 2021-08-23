@@ -2,7 +2,7 @@
 <h3 align="center">French IT Engineering Student.</h3>
 <h3 align="center">Studying at <a href="https://www.epita.fr">Epita</a></h3>
 
-🔭 I’m currently working on Dorset College CA, [Virutal Global College manager](https://github.com/Ezotose-1/OOP-VGCProject)
+🔭 Last work was a Dorset College CA, [Virutal Global College manager](https://github.com/Ezotose-1/OOP-VGCProject)
 
 🔭 and a C# [Minesweeper with IA](https://github.com/Ezotose-1/Mines)
 
