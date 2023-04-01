@@ -2,7 +2,7 @@
 ### <div align="center">French IT Engineering Student. <br> 🖥️ Learning Dev, Systems, Networks, Security...</div>  
   
 
-- ⚔️ I’m currently working on [my own  WEB-CTF.](https://ctf.ezodev.tk)  
+- ⚔️ I’m currently working on [my own  WEB-CTF.]([https://ctf.ezodev.tk](https://github.com/Ezotose-1/CTF-WebServer))  
   
 
 - ☣️ Dev a full [LaTeX/Tex, Conway's Game Of Life.](https://github.com/Ezotose-1/LaTeX_GameOfLife)  
