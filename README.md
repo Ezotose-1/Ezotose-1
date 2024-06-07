@@ -1,5 +1,4 @@
-### <h1 align="center">Hi 👋, I'm Pierre</h1>  
-### <div align="center">French IT Engineering Student. <br> 🖥️ Learning Dev, Systems, Networks, Security...</div>  
+### <div align="center">French IT Engineer. <br> 🖥️ Systems, Networks, Security...</div>  
   
 
 - ⚔️ I’m currently working on [my own  WEB-CTF.](https://github.com/Ezotose-1/CTF-WebServer)
